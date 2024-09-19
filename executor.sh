@@ -1,1 +1,1 @@
-python executor.py
+python3 executor.py
