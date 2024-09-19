@@ -15,10 +15,11 @@ python executor.py untuk run executor.py
 ```
 
 6.) donee
+### WINDOWS
 
 metode simpelnya untuk windows click aja file run-main,tunggu 5menit lalu click run-executor
 
-untuk linux 
+### LINUX
 ```
 chmod +x main.sh && ./main.sh
 ```
