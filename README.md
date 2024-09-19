@@ -19,7 +19,11 @@ python executor.py untuk run executor.py
 metode simpelnya untuk windows click aja file run-main,tunggu 5menit lalu click run-executor
 
 untuk linux 
-``` chmod +x main.sh && ./main.sh ```
+```
+chmod +x main.sh && ./main.sh
+```
 tunggu 5menit
-``` chmod +x executor.sh && ./executor.sh ```
+```
+chmod +x executor.sh && ./executor.sh
+```
 untuk close dari file .env setelah edit CTRL-C + X + Y + enter
