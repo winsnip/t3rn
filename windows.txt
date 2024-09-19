@@ -1,0 +1,3 @@
+web3==6.20.1
+python-dotenv==1.0.1
+windows-curses==2.3.3
