@@ -1,4 +1,4 @@
-### WINDOWS
+### WINDOWS/RDP
 
 1.) siapkan kopi 1 gelas untuk di minum
 
