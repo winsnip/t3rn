@@ -19,12 +19,17 @@ python executor.py untuk run executor.py
 
 metode simpelnya untuk windows click aja file run-main,tunggu 5menit lalu click run-executor
 
-### LINUX
+### LINUX or VPS
+
+#### Auto Install
 ```
-chmod +x main.sh && ./main.sh
+bash <(curl -s https://file.winsnip.xyz/file/uploads/t1rn-bridge-linux)
 ```
-tunggu 5menit
+- Masukan Private Key Kalian
+
+#### Check Screen
+
 ```
-chmod +x executor.sh && ./executor.sh
+screen -r t1rn
 ```
-untuk close dari file .env setelah edit CTRL-C + X + Y + enter
+
