@@ -1,10 +1,12 @@
+### WINDOWS
+
 1.) siapkan kopi 1 gelas untuk di minum
 
 2.) Edit file .env,lalu isi memakai privatekey kalian (optional ganti rpc)
 
 3.) 
 ```
-pip install -r requirements.txt
+pip install -r windows.txt
 ```
 
 4.) python main.py untuk run botnya dan tunggu 5 menit
@@ -15,7 +17,6 @@ python executor.py untuk run executor.py
 ```
 
 6.) donee
-### WINDOWS
 
 metode simpelnya untuk windows click aja file run-main,tunggu 5menit lalu click run-executor
 
